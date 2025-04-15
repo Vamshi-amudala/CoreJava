@@ -1,5 +1,4 @@
-package kunalJ.patterns;
-
+package Edu_Bridge.patterns;
 public class numberPattern {
     public static void main(String[] args) {
         numPattern(5);

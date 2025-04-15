@@ -1,4 +1,4 @@
-package kunalJ.patterns;
+package Edu_Bridge.patterns;
 
 public class somePattern {
     public static void main(String[] args) {

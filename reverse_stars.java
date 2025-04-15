@@ -1,4 +1,4 @@
-package kunalJ.patterns;
+package Edu_Bridge.patterns;
 
 public class reverse_stars {
         public static void main(String[] args) {
