@@ -1,8 +1,8 @@
-package Edu_Bridge.coreJava_Project;
+package Edu_Bridge.AirLineManagementSystem;
 
 interface AirLineManagement {
     
-    String cities();
+    
     int ticketBooking();
     int ticketUpdate();
     String collectTicket();
